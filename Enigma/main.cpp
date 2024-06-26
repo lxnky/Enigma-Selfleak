@@ -15,20 +15,14 @@
 
 #include "backend/driver/mouse/mouse.cpp"
 
-void rat()
-{
-	system("");
-	system("");
-}
+
 
 auto main() -> void //int main
 {
 	std::thread(security_loop).detach();
 
-
-	SetConsoleTitle(_("enigga"));
 	SonyDriverHelper :: api :: Init();
-	//rat();
+	
 	ClearTempFolder();
 	system(_("color D"));
 	//auth();
