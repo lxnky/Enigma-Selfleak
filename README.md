@@ -7,7 +7,7 @@ Enigma Public (blue one) fortnite cheat I used to sell. It got into bad hands so
 [Download](https://discord.gg/YzpCypQyNw)
 
 # Discord
-Join my [discord server](https://discord.gg/PkZBeMWFVm) to get vcxproj files and undetected driver for this source
+Join my [discord server](https://discord.gg/YzpCypQyNw) to get vcxproj files and undetected driver for this source
 
 Screenshot:
 ![Screenshot](https://files.offshore.cat/3YEQBOQ4.png)
